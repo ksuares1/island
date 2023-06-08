@@ -1,0 +1,24 @@
+body{
+    background-color: lightyellow;
+    text-align: center;
+}
+
+img{
+    display:block;
+    width:35%;
+    height:5%;
+    margin:auto;
+}
+
+h1{
+    font-family: cursive;
+}
+
+h2{
+    color:red;
+}
+
+h5{
+    text-decoration: underline;
+    font-size: 24px;
+}
