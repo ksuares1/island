@@ -10,6 +10,11 @@ img{
     margin:auto;
 }
 
+
+li{
+   list-style-position: inside;
+    text-align:center;
+}
 h1{
     font-family: cursive;
 }
