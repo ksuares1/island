@@ -1,0 +1,30 @@
+h1{
+    text-align:center;
+    color:green;
+}
+
+h2{
+    color:blue;
+}
+.gradient{
+    border:5px solid blueviolet;
+}
+
+.gradient, .resources , .variations , .frontend{
+    width:35%;
+}
+
+.resources{
+    border:5px solid aqua;
+}
+
+.variations{
+    border:5px solid orangered;
+}
+
+.frontend{
+    border:5px solid lightpink;
+}
+.row{
+    margin:30px;
+}
